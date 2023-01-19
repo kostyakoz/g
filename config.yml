@@ -37,7 +37,7 @@ outputs:
     - JSON
 
 params:
-  # env: production
+  env: production
   author: Jean SEVAUX
   ShowShareButtons: true
   ShowReadingTime: true
