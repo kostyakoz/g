@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kostyakoz.github.io/g/sitemap.xml
